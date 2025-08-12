@@ -1,6 +1,6 @@
-# Ischooli Cpeg 222 Proj 4 Final Project4 X
+# Cpeg 222 Proj 4 
 
-_From class: **ISCHOOLI**_
+_From class: **CPEG 222**_
 
 ## Overview
 
